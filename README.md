@@ -9,7 +9,7 @@
 - 🔭 I just learn Reactjs library of javascript
 - 🌱 I’m currently learn to develop agile software 
 - 👯 I’m looking to collaborate with other developer to realize product technology
-- 🥅 2021 Goals: Work as datascientist or web apps developer
+- 🥅 2021 Goals: Work as data scientist or webs apps developer
 - ⚡ Fun fact: I love to play badminton, camping, and football
 
 <br />
