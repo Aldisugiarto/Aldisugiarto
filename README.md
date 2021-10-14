@@ -1,13 +1,13 @@
 ### Hi there, I am Aldi Sugiarto 👋
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Aldi Sugiarto][linkedin]
+[<img align="left" alt="Aldisugiarto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />Aldi Sugiarto][linkedin]
 
 <br />
 
 ## I'm a firmware designer, software engineer, and artificial intelligent enthusiast!!
 
 - 🔭 I just learn Reactjs library of javascript
-- 🌱 I’m currently learn to develop agile software 🤣
+- 🌱 I’m currently learn to develop agile software 
 - 👯 I’m looking to collaborate with other developer to realize product technology
 - 🥅 2021 Goals: Work as datascientist or web apps developer
 - ⚡ Fun fact: I love to play badminton, camping, and football
