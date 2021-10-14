@@ -1,8 +1,10 @@
 ### Hi there, I am Aldi Sugiarto 👋
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <h2>Aldi Sugiarto</h2>][linkedin]
 
-## I'm a firmware designer, website developer, and artificial intelligent enthusiast!!
+<br />
+
+## I'm a firmware designer, software engineer, and artificial intelligent enthusiast!!
 
 - 🔭 I just learn Reactjs library of javascript
 - 🌱 I’m currently learn to develop agile software 🤣
@@ -37,4 +39,4 @@
 
 </details>
 
-[Linkedin]:www.linkedin.com/in/aldi-sugiarto
+[linkedin]:www.linkedin.com/in/aldi-sugiarto
