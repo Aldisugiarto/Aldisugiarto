@@ -1,6 +1,6 @@
 ### Hi there, I am Aldi Sugiarto 👋
 
-[![LinkedIn Follow](https://platform.linkedin.com/badges/js/profile.js)](www.linkedin.com/in/aldi-sugiarto)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ## I'm a firmware designer, website developer, and artificial intelligent enthusiast!!
 
@@ -36,3 +36,5 @@
   <img align="left" alt="Aldi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aldisugiarto&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 </details>
+
+[Linkedin]:www.linkedin.com/in/aldi-sugiarto
