@@ -6,10 +6,11 @@
 
 ## I'm a firmware designer, software engineer, and artificial intelligent enthusiast!!
 
-- 🔭 I just learn Reactjs library of javascript
+- ⚡ I learn GO language for build API
+- 🔭 I learn Reactjs library of javascript and laravel framework of php
 - 🌱 I’m currently learn to develop agile software 
 - 👯 I’m looking to collaborate with other developer to realize product technology
-- 🥅 2021 Goals: Work as data scientist or webs apps developer
+- 🥅 2022 Goals: Level up sofware engineering
 - ⚡ Fun fact: I love to play badminton, camping, and football
 
 <br />
